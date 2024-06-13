@@ -9,13 +9,13 @@ Ah, welcome, dear reader, to the chronicles of Data Analysis, where deductive pr
 # 2 - Cleaning and Transformation
 The data had been obtained as follows:
 <p align="center">
-<img src="">
+<img src="RAW DATA.png">
 </p>
 
 Employing my keen eye for detail, I meticulously cleaned and transformed the raw data, casting aside veils of ambiguity to reveal its true essence.
 
 <p align="center">
-<img src="">
+<img src="CLEAN DATA.png">
 </p>
 
 # 3 - Utilising Pivot Tables
