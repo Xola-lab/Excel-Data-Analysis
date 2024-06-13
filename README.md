@@ -1,7 +1,7 @@
 # Project - Analysing Online Store Data using Excel
 
 ### Data Source
-The Data in this project was obtained from Kaggle and importing into Excel.
+The Data in this project was obtained from Kaggle and imported into Excel.
 
 # 1 - Introduction
 Ah, welcome, dear reader, to the chronicles of Data Analysis, where deductive prowess meets the realm of numbers and spreadsheets. In this Excel escapade, much like a skilled detective combing through clues, I embarked on a quest to unravel mysteries concealed within the data. Join me, reader, as we venture forth into the realm of data driven deduction, where every cell and formula holds potential for enlightenment. The game is afoot!
