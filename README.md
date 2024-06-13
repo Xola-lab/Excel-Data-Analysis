@@ -9,8 +9,8 @@ Ah, welcome, dear reader, to the chronicles of Data Analysis, where deductive pr
 # 2 - Cleaning and Transformation
 Employing my keen eye for detail, I meticulously cleaned and transformed the raw data, casting aside veils of ambiguity to reveal its true essence.
 
-3 - Utilising Pivot Tables
+# 3 - Utilising Pivot Tables
 With the precision of a master sleuth, I employed the formidable tools of Pivot Tables and dynamic charts to scrutinise every nook and cranny of the dataset, extracting insights with a keen intellect. Each Pivot Table served as a magnifying glass, uncovering hidden patterns and correlations, while the charts painted a vivid picture of the data's intricate tapestry.
 
-4 - Finally, Dashboarding
+# 4 - Finally, Dashboarding
 And now, behold, the culmination of my analytical explots -- a Dashboard, akin to a map in my hands, providing a panoramic view of the data landscape. Throught this Dashboard, we embark on a journey of discovery, navigating the twists and turns of statistical intrigue with the same favour that propels me through the labyrinth of all datasets.
