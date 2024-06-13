@@ -54,7 +54,7 @@ Then, scrutinising the distribution of Sex among the clientele. Understanding th
 
 Also, not overlooking the types of payment methods favoured by these discerning customers - we must remember that the Devil is in the details. There are two particular payment methods that seem to be popular among the customers - Card Payments and Digital Wallets. Perhaps the online store should make these methods more accessible? These insights may be a key to optimising the store's payment infrastructure and enhancing customer experience.
 
-Dear reader, this  chapter of our analytical odyssey concludes here. Armed with the insights obtained from our Dashboard, let us embark upon our next adventure in the realm of e-Commerce, ever vigilant for clues and opportunities to refine our strategies and unlock greater success - See you on the next one!
+Dear reader, this  chapter of our analytical odyssey concludes here. Armed with the insights obtained from our Dashboard, let us embark upon our next adventure in the realm of e-Commerce, ever vigilant for clues and opportunities to refine our strategies and unlock greater success.
 
 
 
