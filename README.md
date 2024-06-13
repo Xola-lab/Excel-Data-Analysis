@@ -26,9 +26,15 @@ Conditional Formatting was, of course, employed along with some sorting and stan
 # 3 - Utilising Pivot Tables
 With the precision of a master sleuth, I employed the formidable tools of Pivot Tables and dynamic charts to scrutinise every nook and cranny of the dataset, extracting insights with a keen intellect. Each Pivot Table served as a magnifying glass, uncovering hidden patterns and correlations, while the charts painted a vivid picture of the data's intricate tapestry.
 
+Observe the example below:
+
 <p align="center">
 <img src="PAYMENT METHOD.png">
 </p>
 
 # 4 - Finally, Dashboarding
 And now, behold, the culmination of my analytical explots -- a Dashboard, akin to a map in my hands, providing a panoramic view of the data landscape. Throught this Dashboard, we embark on a journey of discovery, navigating the twists and turns of statistical intrigue with the same favour that propels me through the labyrinth of all datasets.
+
+<p align="center">
+<img src="DASHBOARD - FINAL.png">
+</p>
