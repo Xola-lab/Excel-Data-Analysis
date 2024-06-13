@@ -18,6 +18,11 @@ Employing my keen eye for detail, I meticulously cleaned and transformed the raw
 <img src="CLEAN DATA.png">
 </p>
 
+Conditional Formatting was, of course, employed. Using Excel's "IF()" function.
+```excel
+=IF(L2=0, "Digital Wallets", IF(L2=1, "Card", IF(L2=2, "PayPal", "Other")))
+```
+
 # 3 - Utilising Pivot Tables
 With the precision of a master sleuth, I employed the formidable tools of Pivot Tables and dynamic charts to scrutinise every nook and cranny of the dataset, extracting insights with a keen intellect. Each Pivot Table served as a magnifying glass, uncovering hidden patterns and correlations, while the charts painted a vivid picture of the data's intricate tapestry.
 
