@@ -36,5 +36,5 @@ Observe the example below:
 And now, behold, the culmination of my analytical explots -- a Dashboard, akin to a map in my hands, providing a panoramic view of the data landscape. Throught this Dashboard, we embark on a journey of discovery, navigating the twists and turns of statistical intrigue with the same favour that propels me through the labyrinth of all datasets.
 
 <p align="center">
-<img src="DASHBOARD - FINAL.png", width="100%">
+<img src="DASHBOARD - FINAL.png", width="70%" height="20%>
 </p>
