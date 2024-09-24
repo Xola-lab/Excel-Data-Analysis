@@ -39,7 +39,7 @@ Observe the example below:
 </p>
 
 # 4 - Finally, Dashboarding
-And now, behold, the culmination of my analytical exploits -- a Dashboard, akin to a map in my hands, providing a panoramic view of the data landscape. Throught this Dashboard, we embark on a journey of discovery, navigating the twists and turns of statistical intrigue with the same flavour that propels me through the labyrinth of all datasets.
+And now, behold, the culmination of my analytical exploits -- a Dashboard, akin to a map in my hands, providing a panoramic view of the data landscape. Through this Dashboard, we embark on a journey of discovery, navigating the twists and turns of statistical intrigue with the same flavour that propels me through the labyrinth of all datasets.
 
 <p align="center">
 <img src="DASHBOARD - FINAL.png">
