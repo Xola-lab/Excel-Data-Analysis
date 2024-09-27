@@ -1,13 +1,23 @@
 # Project - Analysing Online Store Data using Excel
 
-### Data Source
-The Data in this project was obtained from Kaggle and imported into Excel.
+# Executive Summary
+### Objective:
+To analyze sales data from an online store (Kaggle dataset) to uncover key insights about customer behavior, revenue trends, and product performance, using Excel’s advanced data analysis tools.
 
-### Methods Employed
-- Conditional Formatting,
-- Pivot Tables/Charts (Visualisation),
-- Standardisation, and
-- Dashboarding.
+### Skills Highlight:
+- Data Cleaning and Preparation.
+- Pivot Tables and Charts.
+- Time Series Analysis.
+- Descriptive Statistics.
+- Dashboard Creation.
+
+### Key Insights:
+Identified key revenue trends through time series analysis, revealing seasonal spikes.
+Discovered a significant female customer base, allowing for targeted marketing.
+Highlighted dominant payment methods (Card Payments, Digital Wallets), suggesting optimization opportunities.
+
+### Impact:
+This analysis provides actionable insights that can help inform marketing strategies, optimize payment infrastructures, and enhance product offerings, leading to improved business decisions.
 
 # 1 - Introduction
 Welcome to this exploration of Data Analysis, where analytical reasoning intersects with numerical insights and spreadsheet tools. In this Excel project, much like a data analyst systematically investigating key patterns, I embarked on an in-depth examination to uncover hidden insights within the dataset. Join me as we navigate through data-driven methodologies, where each cell and formula contributes to a comprehensive understanding of the underlying trends and opportunities. Let's begin the analysis.
