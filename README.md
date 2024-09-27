@@ -2,7 +2,7 @@
 
 # Executive Summary
 ### Objective:
-To analyze sales data from an online store (Kaggle dataset) to uncover key insights about customer behavior, revenue trends, and product performance, using Excel’s advanced data analysis tools.
+To analyse sales data from an online store (Kaggle dataset) to uncover key insights about customer behaviour, revenue trends, and product performance, using Excel’s advanced data analysis tools.
 
 ### Skills Highlight:
 - Data Cleaning and Preparation.
@@ -17,7 +17,7 @@ Discovered a significant female customer base, allowing for targeted marketing.
 Highlighted dominant payment methods (Card Payments, Digital Wallets), suggesting optimization opportunities.
 
 ### Impact:
-This analysis provides actionable insights that can help inform marketing strategies, optimize payment infrastructures, and enhance product offerings, leading to improved business decisions.
+This analysis provides actionable insights that can help inform marketing strategies, optimise payment infrastructures, and enhance product offerings, leading to improved business decisions.
 
 # 1 - Introduction
 Welcome to this exploration of Data Analysis, where analytical reasoning intersects with numerical insights and spreadsheet tools. In this Excel project, much like a data analyst systematically investigating key patterns, I embarked on an in-depth examination to uncover hidden insights within the dataset. Join me as we navigate through data-driven methodologies, where each cell and formula contributes to a comprehensive understanding of the underlying trends and opportunities. Let's begin the analysis.
@@ -62,10 +62,10 @@ The analysis of the Online Store dataset has provided actionable insights to dri
 The Time Series Line Chart reveals revenue fluctuations over several months. A close examination of these trends is essential for identifying periods of growth and potential areas of concern. If we observe consistent upward movement, this suggests that current strategies are effective and should be replicated. However, any sudden declines or unusual spikes warrant further investigation, as they may be indicative of external market pressures or internal operational inefficiencies.
 
 ### Customer Demographics (Gender Distribution):
-Analyzing the gender distribution of the customer base reveals that a significant proportion of the store’s clientele is female. This insight can inform targeted marketing strategies and product offerings, optimizing engagement with this key demographic. Understanding customer preferences at this level provides an opportunity to tailor campaigns that resonate with the most responsive audience.
+Analysing the gender distribution of the customer base reveals that a significant proportion of the store’s clientele is female. This insight can inform targeted marketing strategies and product offerings, optimising engagement with this key demographic. Understanding customer preferences at this level provides an opportunity to tailor campaigns that resonate with the most responsive audience.
 
 ### Payment Methods (Customer Preferences):
-The analysis of payment methods highlights the dominance of Card Payments and Digital Wallets among customers. To enhance the user experience and streamline transactions, it may be beneficial to further optimize these payment methods, ensuring they are prominently accessible and user-friendly. Improving the payment infrastructure based on these preferences could lead to increased customer satisfaction and retention.
+The analysis of payment methods highlights the dominance of Card Payments and Digital Wallets among customers. To enhance the user experience and streamline transactions, it may be beneficial to further optimise these payment methods, ensuring they are prominently accessible and user-friendly. Improving the payment infrastructure based on these preferences could lead to increased customer satisfaction and retention.
 
 # Conclusion
-In conclusion, the insights gathered from this analysis provide a strong foundation for refining the store's approach to revenue growth, customer engagement, and payment optimization. By continuously leveraging data-driven insights, the store can position itself for ongoing success in a competitive e-Commerce landscape.
+In conclusion, the insights gathered from this analysis provide a strong foundation for refining the store's approach to revenue growth, customer engagement, and payment optimisation. By continuously leveraging data-driven insights, the store can position itself for ongoing success in a competitive e-Commerce landscape.
