@@ -1,4 +1,4 @@
-# Project - Analysing Online Store Data using Excel
+# Analysing Online Store Data using Excel
 
 # Executive Summary
 ### Objective:
