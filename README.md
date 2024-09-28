@@ -12,9 +12,11 @@ To analyse sales data from an online store (Kaggle dataset) to uncover key insig
 - Dashboard Creation.
 
 ### Key Insights:
-Identified key revenue trends through time series analysis, revealing seasonal spikes.
-Discovered a significant female customer base, allowing for targeted marketing.
-Highlighted dominant payment methods (Card Payments, Digital Wallets), suggesting optimization opportunities.
+- Identified key revenue trends through time series analysis, revealing seasonal spikes that indicate peak shopping periods.
+
+- Discovered a significant female customer base, allowing for targeted marketing strategies to increase engagement and sales.
+
+- Highlighted dominant payment methods (Card Payments, Digital Wallets), suggesting opportunities for optimizing the checkout process to enhance customer satisfaction.
 
 ### Impact:
 This analysis provides actionable insights that can help inform marketing strategies, optimise payment infrastructures, and enhance product offerings, leading to improved business decisions.
