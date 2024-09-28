@@ -41,7 +41,7 @@ I utilised Excel functions to remove unnecessary spaces for consistent formattin
 
 # 3 - Utilising Pivot Tables
 ### Utilising Pivot Tables:
-Leveraging Pivot Tables and dynamic charts, I conducted a comprehensive analysis to extract meaningful insights. This functionality enabled the discovery of patterns, such as sales volume by product category and customer demographics. Below is an example of a Pivot Table summarising revenue by month, highlighting trends for strategic decision-making.
+Leveraging Pivot Tables and dynamic charts, I conducted a comprehensive analysis to extract meaningful insights. This functionality enabled the discovery of patterns, such as sales volume by product category and customer demographics. Below is an example of a Pivot Table summarising Payment Methods, highlighting trends for strategic decision-making.
 
 <p align="center">
 <img src="PAYMENT METHOD.png">
