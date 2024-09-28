@@ -23,33 +23,33 @@ This analysis provides actionable insights that can help inform marketing strate
 Welcome to this exploration of Data Analysis, where analytical reasoning intersects with numerical insights and spreadsheet tools. In this Excel project, much like a data analyst systematically investigating key patterns, I embarked on an in-depth examination to uncover hidden insights within the dataset. Join me as we navigate through data-driven methodologies, where each cell and formula contributes to a comprehensive understanding of the underlying trends and opportunities. Let's begin the analysis.
 
 # 2 - Cleaning and Transformation
-The data had been obtained as follows:
+### Data Cleaning and Transformation:
 <p align="center">
 <img src="RAW DATA.png">
 </p>
 
-Employing my keen eye for detail, I meticulously cleaned and transformed the raw data, casting aside veils of ambiguity to reveal its true essence.
+The raw dataset was meticulously cleaned and transformed to ensure accuracy:
 
 <p align="center">
 <img src="CLEAN DATA.png">
 </p>
 
-Conditional Formatting was, of course, employed along with some sorting and standardisation. For instance:
+I utilised Excel functions to remove unnecessary spaces for consistent formatting. Conditional Formatting highlighted key anomalies. For example, the categorisation of payment methods was standardised using:
 ```excel
 =IF(L2=0, "Digital Wallets", IF(L2=1, "Card", IF(L2=2, "PayPal", "Other")))
 ```
 
 # 3 - Utilising Pivot Tables
-With meticulous attention to detail, I utilized the robust functionalities of Pivot Tables and dynamic charts to conduct a comprehensive analysis of the dataset, extracting meaningful insights. Pivot Tables allowed me to uncover hidden patterns and correlations, while the charts visually captured the intricate relationships within the data, providing clear and actionable insights.
-
-Observe the example below:
+### Utilising Pivot Tables:
+Leveraging Pivot Tables and dynamic charts, I conducted a comprehensive analysis to extract meaningful insights. This functionality enabled the discovery of patterns, such as sales volume by product category and customer demographics. Below is an example of a Pivot Table summarising revenue by month, highlighting trends for strategic decision-making.
 
 <p align="center">
 <img src="PAYMENT METHOD.png">
 </p>
 
-# 4 - Finally, Dashboarding
-Presenting the culmination of my analytical work—a comprehensive Dashboard, serving as an intuitive guide to the data landscape. This Dashboard provides a holistic, real-time view of key metrics and trends, enabling a seamless exploration of the dataset's intricate details. Through it, we embark on a data-driven journey, navigating the complexities of statistical analysis with the same precision and clarity applied throughout the entire dataset.
+# 4 - Dashboard Creation
+### Dashboard Creation:
+The culmination of my analysis is a comprehensive Dashboard that provides an intuitive overview of key metrics and trends. It includes visualisations like revenue trends, customer demographics, and payment method distribution. Each element is designed to facilitate quick insights for stakeholders, ensuring data-driven decisions are informed and timely.
 
 <p align="center">
 <img src="DASHBOARD - FINAL.png">
