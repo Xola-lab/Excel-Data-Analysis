@@ -16,7 +16,7 @@ To analyse sales data from an online store (Kaggle dataset) to uncover key insig
 
 - Discovered a significant female customer base, allowing for targeted marketing strategies to increase engagement and sales.
 
-- Highlighted dominant payment methods (Card Payments, Digital Wallets), suggesting opportunities for optimizing the checkout process to enhance customer satisfaction.
+- Highlighted dominant payment methods (Card Payments, Digital Wallets), suggesting opportunities for optimising the checkout process to enhance customer satisfaction.
 
 ### Impact:
 This analysis provides actionable insights that can help inform marketing strategies, optimise payment infrastructures, and enhance product offerings, leading to improved business decisions.
